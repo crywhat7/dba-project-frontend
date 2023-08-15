@@ -2,5 +2,7 @@
   "semi": true,
   "arrowParens": "always",
   "bracketSameLine": false,
-  "singleQuote": true
+  "singleQuote": true,
+  "bracketSpacing": true,
+  "jsxSingleQuote": true
 }
